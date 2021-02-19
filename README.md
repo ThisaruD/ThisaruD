@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Thisaru Dilshan
 - 🔭 I’m currently working on assignments
 - 🌱 I’m currently learning React, Laravel, React Native, Flutter
 - 👯 I’m looking to collaborate on open source
