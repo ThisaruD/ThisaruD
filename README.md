@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about anything React
 - 📫 How to reach me: thisaru.18@itfac.mrt.ac.lk
-- - ⚡ Fun fact: Something went wrong
-- ![power on](https://github.com/ThisaruD/ThisaruD/blob/main/wp7106028.jpg)
+- ⚡ Fun fact: Something went wrong
+  ![power on](https://github.com/ThisaruD/ThisaruD/blob/main/wp7106028.jpg)
 
 
 
