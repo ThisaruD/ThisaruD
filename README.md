@@ -5,10 +5,11 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about anything React
 - 📫 How to reach me: thisaru.18@itfac.mrt.ac.lk
-- ![alt text](https://github.com/ThisaruD/ThisaruD/blob/main/wp7106028.jpg)
+- - ⚡ Fun fact: Something went wrong
+- ![power on](https://github.com/ThisaruD/ThisaruD/blob/main/wp7106028.jpg)
 
 
-- ⚡ Fun fact: Something went wrong
+
 <!--
 **ThisaruD/ThisaruD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
